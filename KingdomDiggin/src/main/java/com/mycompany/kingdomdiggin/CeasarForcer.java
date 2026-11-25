@@ -10,7 +10,7 @@ package com.mycompany.kingdomdiggin;
  * input = canon, pages found on 1,6,7,17,20,23
  */
 public class CeasarForcer {
-
+ 
     public static void main(String[] args) {
         String input;
         if (args.length == 1) {
