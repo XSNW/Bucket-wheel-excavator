@@ -1,11 +1,11 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-package com.mycompany.kingdomdiggin;
+package com.mycompany.BucketWheelExcavator;
 
 import java.util.Scanner;
 
-public class KingdomDiggin {
+public class Main {
 
     static int selectedAction = 0;
 
